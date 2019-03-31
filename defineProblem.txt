@@ -1,0 +1,9 @@
+1. Introduction 
+1.1. Background
+This is the capstone project of IBM Data Science Professional Certificate. In this project, I will use the Foursquare location data to explore neighborhoods in Mumbai, and to come up with a problem that I can use the Foursquare location data to solve.
+
+1.2. Problem
+I will explore the neighborhoods in Mumbai and answer the question: "Where is the appropriate place to open a new restaurant in Mumbai".
+
+1.3. Interest
+Mumbai is one of the biggest international cities in the world, and one of the financial center of Asia. Opening a restaurant here is an attractive idea for any one who want to extends its business to Asia. They would be very interested in this project.
