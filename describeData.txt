@@ -1,0 +1,14 @@
+2. Data
+2.1. Data Sources
+My main two data sources are:
+1. Wikipedia provides the list of districts and neighborhoods in Mumbai
+2. Venues data from Foursquare
+The coordinates data is from https://www.maps.ie/coordinates.html.
+
+2.2. Data Cleaning
+Mumbai consists of Bandra Bandstand, Malabar Hill, Altamount Road, Powai, Pali Hill- Bandra, and other neighborhoods. This project will focus on Bandra and Altamount.
+
+First of all, I need to collect the districts and neighborhoods data from wikipedia page, and find the coordinates for every neighborhood. I did this manually and create a file named neighborhoods_mumbai.csv.
+
+2.3 Feature Selection
+In this project, I will get data of recommended venues inside 1000 meters radius of every neighborhood, calculate the top10 most common venues by its category as features. Plus, the 11th feature is if there is a bus/metro station nearby.
